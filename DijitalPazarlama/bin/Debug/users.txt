@@ -1,0 +1,2 @@
+Id@1;Name@Engin;Lastname@Yazilan;Username@admin;Password@123;Role@Admin
+Id@2;Name@Sedef;Lastname@evr;Username@sdf;Password@123;Role@User

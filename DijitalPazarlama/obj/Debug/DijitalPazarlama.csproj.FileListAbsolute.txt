@@ -1,0 +1,69 @@
+C:\Users\Wissen\Desktop\FatihŞeftali\wissenoglen\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.pdb
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csprojResolveAssemblyReference.cache
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Properties.Resources.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.LoginForm.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.GenerateResource.Cache
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.CoreCompileInputs.cache
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.exe
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.pdb
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csprojResolveAssemblyReference.cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Properties.Resources.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.LoginForm.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.GenerateResource.Cache
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.SignUp.resources
+C:\Users\Wissen\Documents\Visual Studio 2015\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.AdminPanel.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.AdminPanel.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.SignUp.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.UserPanel.resources
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.BuyProduct.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.exe
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.pdb
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.pdb
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csprojResolveAssemblyReference.cache
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Properties.Resources.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.AdminPanel.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.BuyProduct.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.LoginForm.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.SignUp.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.UserPanel.resources
+C:\Users\Bireysel\Documents\Visual Studio 2015\Projects\engin\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.GenerateResource.Cache
+C:\Users\engin\Documents\Visual Studio 2017\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.PurchaseDetail.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.exe
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.pdb
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csprojResolveAssemblyReference.cache
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Properties.Resources.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.AdminPanel.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.BuyProduct.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.LoginForm.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.PurchaseDetail.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.SignUp.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.UserPanel.resources
+D:\Proje\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.GenerateResource.Cache
+D:\Proje\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe
+D:\Proje\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.pdb
+D:\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe.config
+D:\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.exe
+D:\Projects\DijitalPazarlama\DijitalPazarlama\bin\Debug\DijitalPazarlama.pdb
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csprojResolveAssemblyReference.cache
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Properties.Resources.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.AdminPanel.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.BuyProduct.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.LoginForm.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.PurchaseDetail.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.SignUp.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.Views.UserPanel.resources
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.GenerateResource.Cache
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.csproj.CoreCompileInputs.cache
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.exe
+D:\Projects\DijitalPazarlama\DijitalPazarlama\obj\Debug\DijitalPazarlama.pdb

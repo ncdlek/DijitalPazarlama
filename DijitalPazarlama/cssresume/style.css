@@ -1,0 +1,31 @@
+#rotator {
+    width: 920px;
+    height: 280px;
+    position: relative;
+    background: white;
+    padding: 20px;
+}
+
+#block-1 { background: #d5fcff; }
+#block-2 { background: #e1ffd5; }
+#block-3 { background: #ffffd8; }
+
+#rotator > div { 
+	position: absolute; 
+	overflow: hidden;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+
+#rotator .active { top: 20px; left: 20px; width: 580px; height: 280px; }
+#rotator .non-active-top { top: 20px; left: 620px; height: 130px; width: 320px; }
+#rotator .non-active-bottom { top: 170px; left: 620px; height: 130px; width: 320px; }
+
+#rotator h2 {
+	text-align: center; 
+	line-height: 130px;
+}
+#rotator .active h2 {
+	display: none;
+}

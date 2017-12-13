@@ -1,0 +1,4 @@
+Id@1;Name@Mobil;Description@asdasdasd
+Id@2;Name@Bilgisayar;Description@asda
+Id@3;Name@Oyun Konsolu;Description@asdojasokdj
+Id@4;Name@sdsdf;Description@sdfsdfsdf

@@ -1,0 +1,4 @@
+Id@1;CategoryId@1;Name@iPhone X;Description@Iki kat daha hizli;Price@4000.00;PicturePath@iphone.jpg
+Id@2;CategoryId@1;Name@Moto G;Description@Super Telefon;Price@123123;PictureParh@motog.jpg
+Id@3;CategoryId@2;Name@Lenovo U310;Description@sdfsfasdasd;Price@13212;PictureParh@lenovo.jpg
+Id@4;CategoryId@3;Name@PS 4;Description@Play Station 4;Price@999;PicturePath@ps4.png
